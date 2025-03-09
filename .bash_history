@@ -9,3 +9,5 @@ gcc hello.c -o hello
 ./hello
 sudo apt update
 sudo apt install build-essential
+git init
+git status

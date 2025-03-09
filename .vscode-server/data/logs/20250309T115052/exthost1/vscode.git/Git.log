@@ -281,3 +281,360 @@
 2025-03-09 11:53:20.294 [warning] [Git][getBranch] No such branch: main
 2025-03-09 11:53:20.306 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
 2025-03-09 11:53:20.317 [info] > git status -z -uall [21ms]
+2025-03-09 11:53:21.556 [info] > git add -A -- /home/ellmarslanasif/.vscode-server/data/logs/20250309T115052/exthost1/vscode.git/Git.log [116ms]
+2025-03-09 11:53:21.565 [info] > git config --get commit.template [5ms]
+2025-03-09 11:53:21.565 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-03-09 11:53:21.565 [warning] [Git][getBranch] No such branch: main
+2025-03-09 11:53:21.575 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2025-03-09 11:53:21.590 [info] > git status -z -uall [22ms]
+2025-03-09 11:53:23.060 [info] > git ls-files --stage -- PDC_WORKS/Sequential.c [2ms]
+2025-03-09 11:53:23.066 [info] > git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391 [2ms]
+2025-03-09 11:53:23.067 [info] > git add -A -- /home/ellmarslanasif/.vscode-server/data/logs/20250309T115052/exthost1/remoteexthost.log [46ms]
+2025-03-09 11:53:23.083 [info] > git show --textconv :PDC_WORKS/Sequential.c [8ms]
+2025-03-09 11:53:23.084 [info] > git config --get commit.template [2ms]
+2025-03-09 11:53:23.092 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2025-03-09 11:53:23.092 [warning] [Git][getBranch] No such branch: main
+2025-03-09 11:53:23.102 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2025-03-09 11:53:23.113 [info] > git status -z -uall [18ms]
+2025-03-09 11:53:24.699 [info] > git ls-files --stage -- PDC_WORKS/Sequential.c [2ms]
+2025-03-09 11:53:24.703 [info] > git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391 [1ms]
+2025-03-09 11:53:24.713 [info] > git show --textconv :PDC_WORKS/Sequential.c [2ms]
+2025-03-09 11:53:25.189 [info] > git add -A -- /home/ellmarslanasif/.vscode-server/data/logs/20250309T115052/exthost1/vscode.github/GitHub.log [80ms]
+2025-03-09 11:53:25.200 [info] > git config --get commit.template [4ms]
+2025-03-09 11:53:25.200 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-03-09 11:53:25.200 [warning] [Git][getBranch] No such branch: main
+2025-03-09 11:53:25.209 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2025-03-09 11:53:25.219 [info] > git status -z -uall [16ms]
+2025-03-09 11:53:26.785 [info] > git ls-files --stage -- PDC_WORKS/Sequential.c [2ms]
+2025-03-09 11:53:26.790 [info] > git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391 [1ms]
+2025-03-09 11:53:26.801 [info] > git show --textconv :PDC_WORKS/Sequential.c [3ms]
+2025-03-09 11:53:30.789 [info] > git config --get commit.template [5ms]
+2025-03-09 11:53:30.790 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-03-09 11:53:30.790 [warning] [Git][getBranch] No such branch: main
+2025-03-09 11:53:30.802 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2025-03-09 11:53:30.815 [info] > git status -z -uall [19ms]
+2025-03-09 11:53:35.847 [info] > git config --get commit.template [3ms]
+2025-03-09 11:53:35.848 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-03-09 11:53:35.848 [warning] [Git][getBranch] No such branch: main
+2025-03-09 11:53:35.857 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2025-03-09 11:53:35.870 [info] > git status -z -uall [20ms]
+2025-03-09 11:53:40.919 [info] > git config --get commit.template [4ms]
+2025-03-09 11:53:40.919 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-03-09 11:53:40.919 [warning] [Git][getBranch] No such branch: main
+2025-03-09 11:53:40.928 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2025-03-09 11:53:40.938 [info] > git status -z -uall [15ms]
+2025-03-09 11:53:42.230 [info] > git -c user.useConfigOnly=true commit --quiet [221ms]
+2025-03-09 11:53:42.231 [info] Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: no email was given and auto-detection is disabled
+2025-03-09 11:53:42.235 [info] > git config --get-all user.name [1ms]
+2025-03-09 11:53:42.243 [info] > git config --get commit.template [3ms]
+2025-03-09 11:53:42.243 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-03-09 11:53:42.243 [warning] [Git][getBranch] No such branch: main
+2025-03-09 11:53:42.253 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2025-03-09 11:53:42.260 [info] > git status -z -uall [14ms]
+2025-03-09 11:54:22.768 [info] > git config --get commit.template [10ms]
+2025-03-09 11:54:22.769 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [6ms]
+2025-03-09 11:54:22.770 [warning] [Git][getBranch] No such branch: main
+2025-03-09 11:54:22.801 [info] > git status -z -uall [27ms]
+2025-03-09 11:54:22.802 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [22ms]
+2025-03-09 11:54:22.807 [info] > git ls-files --stage -- PDC_WORKS/Sequential.c [12ms]
+2025-03-09 11:54:22.878 [info] > git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391 [67ms]
+2025-03-09 11:54:22.938 [info] > git show --textconv :PDC_WORKS/Sequential.c [4ms]
+2025-03-09 11:54:23.763 [info] > git fetch [1024ms]
+2025-03-09 11:54:23.773 [info] > git config --get commit.template [6ms]
+2025-03-09 11:54:23.774 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-03-09 11:54:23.774 [warning] [Git][getBranch] No such branch: main
+2025-03-09 11:54:23.783 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2025-03-09 11:54:23.791 [info] > git status -z -uall [15ms]
+2025-03-09 11:54:24.371 [info] > git ls-files --stage -- PDC_WORKS/Sequential.c [3ms]
+2025-03-09 11:54:24.389 [info] > git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391 [1ms]
+2025-03-09 11:54:24.408 [info] > git show --textconv :PDC_WORKS/Sequential.c [8ms]
+2025-03-09 11:54:27.883 [info] > git config --get commit.template [5ms]
+2025-03-09 11:54:27.884 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-03-09 11:54:27.884 [warning] [Git][getBranch] No such branch: main
+2025-03-09 11:54:27.894 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2025-03-09 11:54:27.902 [info] > git status -z -uall [16ms]
+2025-03-09 11:54:32.935 [info] > git config --get commit.template [5ms]
+2025-03-09 11:54:32.936 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-03-09 11:54:32.937 [warning] [Git][getBranch] No such branch: main
+2025-03-09 11:54:32.947 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2025-03-09 11:54:32.960 [info] > git status -z -uall [20ms]
+2025-03-09 11:54:38.003 [info] > git config --get commit.template [4ms]
+2025-03-09 11:54:38.004 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-03-09 11:54:38.004 [warning] [Git][getBranch] No such branch: main
+2025-03-09 11:54:38.013 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2025-03-09 11:54:38.019 [info] > git status -z -uall [13ms]
+2025-03-09 11:54:43.052 [info] > git config --get commit.template [8ms]
+2025-03-09 11:54:43.052 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-03-09 11:54:43.053 [warning] [Git][getBranch] No such branch: main
+2025-03-09 11:54:43.066 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [4ms]
+2025-03-09 11:54:43.080 [info] > git status -z -uall [24ms]
+2025-03-09 11:54:48.120 [info] > git config --get commit.template [5ms]
+2025-03-09 11:54:48.121 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-03-09 11:54:48.121 [warning] [Git][getBranch] No such branch: main
+2025-03-09 11:54:48.133 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [5ms]
+2025-03-09 11:54:48.142 [info] > git status -z -uall [19ms]
+2025-03-09 11:55:00.452 [info] > git config --get commit.template [10ms]
+2025-03-09 11:55:00.459 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [9ms]
+2025-03-09 11:55:00.459 [warning] [Git][getBranch] No such branch: main
+2025-03-09 11:55:00.482 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [12ms]
+2025-03-09 11:55:00.525 [info] > git status -z -uall [60ms]
+2025-03-09 11:55:05.593 [info] > git config --get commit.template [5ms]
+2025-03-09 11:55:05.594 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-03-09 11:55:05.594 [warning] [Git][getBranch] No such branch: main
+2025-03-09 11:55:05.604 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2025-03-09 11:55:05.612 [info] > git status -z -uall [16ms]
+2025-03-09 11:55:11.774 [info] > git config --get commit.template [9ms]
+2025-03-09 11:55:11.775 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2025-03-09 11:55:11.775 [warning] [Git][getBranch] No such branch: main
+2025-03-09 11:55:11.801 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2025-03-09 11:55:11.831 [info] > git status -z -uall [45ms]
+2025-03-09 11:55:16.912 [info] > git config --get commit.template [3ms]
+2025-03-09 11:55:16.912 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-03-09 11:55:16.912 [warning] [Git][getBranch] No such branch: main
+2025-03-09 11:55:16.921 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [0ms]
+2025-03-09 11:55:16.931 [info] > git status -z -uall [16ms]
+2025-03-09 11:55:21.961 [info] > git config --get commit.template [5ms]
+2025-03-09 11:55:21.962 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-03-09 11:55:21.962 [warning] [Git][getBranch] No such branch: main
+2025-03-09 11:55:21.970 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2025-03-09 11:55:21.977 [info] > git status -z -uall [13ms]
+2025-03-09 11:55:27.012 [info] > git config --get commit.template [6ms]
+2025-03-09 11:55:27.012 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-03-09 11:55:27.013 [warning] [Git][getBranch] No such branch: main
+2025-03-09 11:55:27.024 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [4ms]
+2025-03-09 11:55:27.033 [info] > git status -z -uall [18ms]
+2025-03-09 11:55:37.146 [info] > git config --get commit.template [9ms]
+2025-03-09 11:55:37.154 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-03-09 11:55:37.154 [warning] [Git][getBranch] No such branch: main
+2025-03-09 11:55:37.181 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2025-03-09 11:55:37.215 [info] > git status -z -uall [51ms]
+2025-03-09 11:56:24.319 [info] > git config --get commit.template [9ms]
+2025-03-09 11:56:24.340 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2025-03-09 11:56:24.340 [warning] [Git][getBranch] No such branch: main
+2025-03-09 11:56:24.372 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2025-03-09 11:56:24.432 [info] > git status -z -uall [78ms]
+2025-03-09 11:56:29.495 [info] > git config --get commit.template [5ms]
+2025-03-09 11:56:29.496 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-03-09 11:56:29.496 [warning] [Git][getBranch] No such branch: main
+2025-03-09 11:56:29.505 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2025-03-09 11:56:29.513 [info] > git status -z -uall [14ms]
+2025-03-09 11:56:38.462 [info] > git config --get commit.template [11ms]
+2025-03-09 11:56:38.462 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [6ms]
+2025-03-09 11:56:38.462 [warning] [Git][getBranch] No such branch: main
+2025-03-09 11:56:38.482 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2025-03-09 11:56:38.522 [info] > git status -z -uall [54ms]
+2025-03-09 11:56:43.671 [info] > git config --get commit.template [5ms]
+2025-03-09 11:56:43.671 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-03-09 11:56:43.671 [warning] [Git][getBranch] No such branch: main
+2025-03-09 11:56:43.681 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2025-03-09 11:56:43.692 [info] > git status -z -uall [18ms]
+2025-03-09 11:56:45.336 [info] > git check-ignore -v -z --stdin [3ms]
+2025-03-09 11:56:48.754 [info] > git config --get commit.template [4ms]
+2025-03-09 11:56:48.754 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-03-09 11:56:48.754 [warning] [Git][getBranch] No such branch: main
+2025-03-09 11:56:48.764 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2025-03-09 11:56:48.774 [info] > git status -z -uall [17ms]
+2025-03-09 11:56:53.815 [info] > git config --get commit.template [5ms]
+2025-03-09 11:56:53.816 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-03-09 11:56:53.817 [warning] [Git][getBranch] No such branch: main
+2025-03-09 11:56:53.826 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2025-03-09 11:56:53.834 [info] > git status -z -uall [14ms]
+2025-03-09 11:56:56.777 [info] > git show --textconv :.git/COMMIT_EDITMSG [12ms]
+2025-03-09 11:56:56.779 [warning] [GitFileSystemProvider][readFile] File not found - git:/home/ellmarslanasif/.git/COMMIT_EDITMSG.git?%7B%22path%22%3A%22%2Fhome%2Fellmarslanasif%2F.git%2FCOMMIT_EDITMSG%22%2C%22ref%22%3A%22%22%7D
+2025-03-09 11:56:56.780 [info] > git ls-files --stage -- .git/COMMIT_EDITMSG [10ms]
+2025-03-09 11:56:56.781 [warning] [GitFileSystemProvider][stat] File not found - git:/home/ellmarslanasif/.git/COMMIT_EDITMSG.git?%7B%22path%22%3A%22%2Fhome%2Fellmarslanasif%2F.git%2FCOMMIT_EDITMSG%22%2C%22ref%22%3A%22%22%7D
+2025-03-09 11:56:57.061 [info] > git check-ignore -v -z --stdin [3ms]
+2025-03-09 11:57:07.561 [info] > git show --textconv :PDC_WORKS/Sequential.c [12ms]
+2025-03-09 11:57:07.562 [info] > git ls-files --stage -- PDC_WORKS/Sequential.c [8ms]
+2025-03-09 11:57:07.571 [info] > git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391 [3ms]
+2025-03-09 11:57:08.067 [info] > git check-ignore -v -z --stdin [2ms]
+2025-03-09 11:57:10.616 [info] > git show --textconv :.git/COMMIT_EDITMSG [9ms]
+2025-03-09 11:57:10.618 [warning] [GitFileSystemProvider][readFile] File not found - git:/home/ellmarslanasif/.git/COMMIT_EDITMSG.git?%7B%22path%22%3A%22%2Fhome%2Fellmarslanasif%2F.git%2FCOMMIT_EDITMSG%22%2C%22ref%22%3A%22%22%7D
+2025-03-09 11:57:10.619 [info] > git ls-files --stage -- .git/COMMIT_EDITMSG [6ms]
+2025-03-09 11:57:10.620 [warning] [GitFileSystemProvider][stat] File not found - git:/home/ellmarslanasif/.git/COMMIT_EDITMSG.git?%7B%22path%22%3A%22%2Fhome%2Fellmarslanasif%2F.git%2FCOMMIT_EDITMSG%22%2C%22ref%22%3A%22%22%7D
+2025-03-09 11:57:11.804 [info] > git show --textconv :PDC_WORKS/Sequential.c [15ms]
+2025-03-09 11:57:11.805 [info] > git show --textconv HEAD:PDC_WORKS/Sequential.c [12ms]
+2025-03-09 11:57:11.805 [info] > git ls-files --stage -- PDC_WORKS/Sequential.c [6ms]
+2025-03-09 11:57:11.810 [warning] [GitFileSystemProvider][readFile] File not found - git:/home/ellmarslanasif/PDC_WORKS/Sequential.c.git?%7B%22path%22%3A%22%2Fhome%2Fellmarslanasif%2FPDC_WORKS%2FSequential.c%22%2C%22ref%22%3A%22HEAD%22%7D
+2025-03-09 11:57:11.816 [info] > git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391 [7ms]
+2025-03-09 11:57:11.818 [info] > git ls-tree -l HEAD -- PDC_WORKS/Sequential.c [15ms]
+2025-03-09 11:57:11.818 [info] fatal: Not a valid object name HEAD
+2025-03-09 11:57:11.818 [warning] [GitFileSystemProvider][stat] File not found - git:/home/ellmarslanasif/PDC_WORKS/Sequential.c.git?%7B%22path%22%3A%22%2Fhome%2Fellmarslanasif%2FPDC_WORKS%2FSequential.c%22%2C%22ref%22%3A%22HEAD%22%7D
+2025-03-09 11:58:39.816 [info] > git check-ignore -v -z --stdin [3ms]
+2025-03-09 11:59:49.412 [info] > git -c user.useConfigOnly=true commit --quiet [173898ms]
+2025-03-09 11:59:49.412 [info] Aborting commit due to empty commit message.
+2025-03-09 11:59:49.428 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-03-09 11:59:49.428 [warning] [Git][getBranch] No such branch: main
+2025-03-09 11:59:49.429 [info] > git config --get commit.template [9ms]
+2025-03-09 11:59:49.448 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2025-03-09 11:59:49.473 [info] > git status -z -uall [40ms]
+2025-03-09 11:59:49.596 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2025-03-09 11:59:49.596 [warning] [Git][getBranch] No such branch: main
+2025-03-09 11:59:49.596 [info] > git config --get commit.template [8ms]
+2025-03-09 11:59:50.016 [info] > git status -z -uall [416ms]
+2025-03-09 11:59:50.017 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [405ms]
+2025-03-09 11:59:50.586 [info] > git fetch [1005ms]
+2025-03-09 11:59:50.605 [info] > git config --get commit.template [2ms]
+2025-03-09 11:59:50.613 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-03-09 11:59:50.613 [warning] [Git][getBranch] No such branch: main
+2025-03-09 11:59:50.633 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [4ms]
+2025-03-09 11:59:50.660 [info] > git status -z -uall [37ms]
+2025-03-09 11:59:51.171 [info] > git ls-files --stage -- PDC_WORKS/Sequential.c [4ms]
+2025-03-09 11:59:51.177 [info] > git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391 [2ms]
+2025-03-09 11:59:51.187 [info] > git show --textconv :PDC_WORKS/Sequential.c [3ms]
+2025-03-09 11:59:55.164 [info] > git config --get commit.template [6ms]
+2025-03-09 11:59:55.165 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2025-03-09 11:59:55.165 [warning] [Git][getBranch] No such branch: main
+2025-03-09 11:59:55.176 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1ms]
+2025-03-09 11:59:55.185 [info] > git status -z -uall [16ms]
+2025-03-09 12:00:00.216 [info] > git config --get commit.template [5ms]
+2025-03-09 12:00:00.217 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-03-09 12:00:00.217 [warning] [Git][getBranch] No such branch: main
+2025-03-09 12:00:00.227 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2025-03-09 12:00:00.234 [info] > git status -z -uall [14ms]
+2025-03-09 12:00:05.268 [info] > git config --get commit.template [4ms]
+2025-03-09 12:00:05.269 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-03-09 12:00:05.269 [warning] [Git][getBranch] No such branch: main
+2025-03-09 12:00:05.280 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2025-03-09 12:00:05.299 [info] > git status -z -uall [27ms]
+2025-03-09 12:00:08.539 [info] > git check-ignore -v -z --stdin [2ms]
+2025-03-09 12:00:09.218 [info] > git show --textconv :.vscode-server/data/logs/20250309T115052/exthost1/vscode.git/Git.log [9ms]
+2025-03-09 12:00:09.220 [info] > git ls-files --stage -- .vscode-server/data/logs/20250309T115052/exthost1/vscode.git/Git.log [4ms]
+2025-03-09 12:00:09.227 [info] > git cat-file -s b99fca31909e2ca80832caab39312bf6f43fc0f3 [3ms]
+2025-03-09 12:00:09.624 [info] > git show --textconv HEAD:.vscode-server/data/logs/20250309T115052/exthost1/vscode.git/Git.log [12ms]
+2025-03-09 12:00:09.626 [warning] [GitFileSystemProvider][readFile] File not found - git:/home/ellmarslanasif/.vscode-server/data/logs/20250309T115052/exthost1/vscode.git/Git.log.git?%7B%22path%22%3A%22%2Fhome%2Fellmarslanasif%2F.vscode-server%2Fdata%2Flogs%2F20250309T115052%2Fexthost1%2Fvscode.git%2FGit.log%22%2C%22ref%22%3A%22HEAD%22%7D
+2025-03-09 12:00:09.627 [info] > git ls-tree -l HEAD -- .vscode-server/data/logs/20250309T115052/exthost1/vscode.git/Git.log [11ms]
+2025-03-09 12:00:09.627 [info] fatal: Not a valid object name HEAD
+2025-03-09 12:00:09.628 [warning] [GitFileSystemProvider][stat] File not found - git:/home/ellmarslanasif/.vscode-server/data/logs/20250309T115052/exthost1/vscode.git/Git.log.git?%7B%22path%22%3A%22%2Fhome%2Fellmarslanasif%2F.vscode-server%2Fdata%2Flogs%2F20250309T115052%2Fexthost1%2Fvscode.git%2FGit.log%22%2C%22ref%22%3A%22HEAD%22%7D
+2025-03-09 12:00:09.709 [info] > git check-ignore -v -z --stdin [3ms]
+2025-03-09 12:00:10.377 [info] > git config --get commit.template [5ms]
+2025-03-09 12:00:10.378 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-03-09 12:00:10.378 [warning] [Git][getBranch] No such branch: main
+2025-03-09 12:00:10.386 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2025-03-09 12:00:10.398 [info] > git status -z -uall [18ms]
+2025-03-09 12:00:11.251 [info] > git ls-files --stage -- .vscode-server/data/logs/20250309T115052/exthost1/vscode.git/Git.log [2ms]
+2025-03-09 12:00:11.268 [info] > git cat-file -s b99fca31909e2ca80832caab39312bf6f43fc0f3 [12ms]
+2025-03-09 12:00:11.565 [info] > git show --textconv HEAD:.vscode-server/data/logs/20250309T115052/exthost1/vscode.git/Git.log [7ms]
+2025-03-09 12:00:11.571 [warning] [GitFileSystemProvider][readFile] File not found - git:/home/ellmarslanasif/.vscode-server/data/logs/20250309T115052/exthost1/vscode.git/Git.log.git?%7B%22path%22%3A%22%2Fhome%2Fellmarslanasif%2F.vscode-server%2Fdata%2Flogs%2F20250309T115052%2Fexthost1%2Fvscode.git%2FGit.log%22%2C%22ref%22%3A%22HEAD%22%7D
+2025-03-09 12:00:11.574 [info] > git ls-tree -l HEAD -- .vscode-server/data/logs/20250309T115052/exthost1/vscode.git/Git.log [10ms]
+2025-03-09 12:00:11.574 [info] fatal: Not a valid object name HEAD
+2025-03-09 12:00:11.575 [warning] [GitFileSystemProvider][stat] File not found - git:/home/ellmarslanasif/.vscode-server/data/logs/20250309T115052/exthost1/vscode.git/Git.log.git?%7B%22path%22%3A%22%2Fhome%2Fellmarslanasif%2F.vscode-server%2Fdata%2Flogs%2F20250309T115052%2Fexthost1%2Fvscode.git%2FGit.log%22%2C%22ref%22%3A%22HEAD%22%7D
+2025-03-09 12:00:11.785 [info] > git show --textconv :.vscode-server/data/logs/20250309T115052/exthost1/remoteexthost.log [8ms]
+2025-03-09 12:00:11.797 [info] > git ls-files --stage -- .vscode-server/data/logs/20250309T115052/exthost1/remoteexthost.log [13ms]
+2025-03-09 12:00:11.809 [info] > git cat-file -s 098f913344cf64b6c23a97d65d722b996dc4c2c3 [2ms]
+2025-03-09 12:00:12.110 [info] > git show --textconv HEAD:.vscode-server/data/logs/20250309T115052/exthost1/remoteexthost.log [9ms]
+2025-03-09 12:00:12.111 [info] > git ls-tree -l HEAD -- .vscode-server/data/logs/20250309T115052/exthost1/remoteexthost.log [1ms]
+2025-03-09 12:00:12.111 [info] fatal: Not a valid object name HEAD
+2025-03-09 12:00:12.111 [warning] [GitFileSystemProvider][stat] File not found - git:/home/ellmarslanasif/.vscode-server/data/logs/20250309T115052/exthost1/remoteexthost.log.git?%7B%22path%22%3A%22%2Fhome%2Fellmarslanasif%2F.vscode-server%2Fdata%2Flogs%2F20250309T115052%2Fexthost1%2Fremoteexthost.log%22%2C%22ref%22%3A%22HEAD%22%7D
+2025-03-09 12:00:12.112 [warning] [GitFileSystemProvider][readFile] File not found - git:/home/ellmarslanasif/.vscode-server/data/logs/20250309T115052/exthost1/remoteexthost.log.git?%7B%22path%22%3A%22%2Fhome%2Fellmarslanasif%2F.vscode-server%2Fdata%2Flogs%2F20250309T115052%2Fexthost1%2Fremoteexthost.log%22%2C%22ref%22%3A%22HEAD%22%7D
+2025-03-09 12:00:15.433 [info] > git config --get commit.template [6ms]
+2025-03-09 12:00:15.434 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-03-09 12:00:15.434 [warning] [Git][getBranch] No such branch: main
+2025-03-09 12:00:15.447 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2025-03-09 12:00:15.458 [info] > git status -z -uall [20ms]
+2025-03-09 12:00:19.208 [info] > git show --textconv :PDC_WORKS/Sequential.c [15ms]
+2025-03-09 12:00:19.208 [info] > git show --textconv HEAD:PDC_WORKS/Sequential.c [12ms]
+2025-03-09 12:00:19.209 [info] > git ls-tree -l HEAD -- PDC_WORKS/Sequential.c [5ms]
+2025-03-09 12:00:19.209 [info] fatal: Not a valid object name HEAD
+2025-03-09 12:00:19.209 [warning] [GitFileSystemProvider][stat] File not found - git:/home/ellmarslanasif/PDC_WORKS/Sequential.c.git?%7B%22path%22%3A%22%2Fhome%2Fellmarslanasif%2FPDC_WORKS%2FSequential.c%22%2C%22ref%22%3A%22HEAD%22%7D
+2025-03-09 12:00:19.210 [info] > git ls-files --stage -- PDC_WORKS/Sequential.c [10ms]
+2025-03-09 12:00:19.217 [warning] [GitFileSystemProvider][readFile] File not found - git:/home/ellmarslanasif/PDC_WORKS/Sequential.c.git?%7B%22path%22%3A%22%2Fhome%2Fellmarslanasif%2FPDC_WORKS%2FSequential.c%22%2C%22ref%22%3A%22HEAD%22%7D
+2025-03-09 12:00:19.219 [info] > git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391 [4ms]
+2025-03-09 12:00:20.494 [info] > git config --get commit.template [4ms]
+2025-03-09 12:00:20.495 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-03-09 12:00:20.495 [warning] [Git][getBranch] No such branch: main
+2025-03-09 12:00:20.512 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2025-03-09 12:00:20.525 [info] > git status -z -uall [28ms]
+2025-03-09 12:00:27.426 [info] > git config --get commit.template [10ms]
+2025-03-09 12:00:27.429 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2025-03-09 12:00:27.429 [warning] [Git][getBranch] No such branch: main
+2025-03-09 12:00:27.447 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2025-03-09 12:00:27.513 [info] > git status -z -uall [80ms]
+2025-03-09 12:01:04.772 [info] > git config --get commit.template [8ms]
+2025-03-09 12:01:04.774 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2025-03-09 12:01:04.778 [warning] [Git][getBranch] No such branch: main
+2025-03-09 12:01:04.800 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2025-03-09 12:01:04.836 [info] > git status -z -uall [50ms]
+2025-03-09 12:01:09.958 [info] > git config --get commit.template [5ms]
+2025-03-09 12:01:09.959 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-03-09 12:01:09.959 [warning] [Git][getBranch] No such branch: main
+2025-03-09 12:01:09.969 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2025-03-09 12:01:09.978 [info] > git status -z -uall [15ms]
+2025-03-09 12:01:13.427 [info] > git config --get commit.template [16ms]
+2025-03-09 12:01:13.431 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-03-09 12:01:13.431 [warning] [Git][getBranch] No such branch: main
+2025-03-09 12:01:13.441 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2025-03-09 12:01:13.449 [info] > git status -z -uall [15ms]
+2025-03-09 12:01:15.062 [info] > git config --get commit.template [4ms]
+2025-03-09 12:01:15.063 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-03-09 12:01:15.063 [warning] [Git][getBranch] No such branch: main
+2025-03-09 12:01:15.073 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2025-03-09 12:01:15.082 [info] > git status -z -uall [17ms]
+2025-03-09 12:01:16.941 [info] > git config --get commit.template [5ms]
+2025-03-09 12:01:16.941 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-03-09 12:01:16.941 [warning] [Git][getBranch] No such branch: main
+2025-03-09 12:01:16.951 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2025-03-09 12:01:16.962 [info] > git status -z -uall [18ms]
+2025-03-09 12:01:24.383 [info] > git config --get commit.template [18ms]
+2025-03-09 12:01:24.384 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2025-03-09 12:01:24.384 [warning] [Git][getBranch] No such branch: main
+2025-03-09 12:01:24.420 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [10ms]
+2025-03-09 12:01:24.462 [info] > git status -z -uall [66ms]
+2025-03-09 12:01:34.247 [info] > git config --get commit.template [11ms]
+2025-03-09 12:01:34.248 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2025-03-09 12:01:34.248 [warning] [Git][getBranch] No such branch: main
+2025-03-09 12:01:34.268 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2025-03-09 12:01:34.314 [info] > git status -z -uall [60ms]
+2025-03-09 12:01:36.766 [info] > git show --textconv :.git/COMMIT_EDITMSG [6ms]
+2025-03-09 12:01:36.768 [warning] [GitFileSystemProvider][readFile] File not found - git:/home/ellmarslanasif/.git/COMMIT_EDITMSG.git?%7B%22path%22%3A%22%2Fhome%2Fellmarslanasif%2F.git%2FCOMMIT_EDITMSG%22%2C%22ref%22%3A%22%22%7D
+2025-03-09 12:01:36.769 [info] > git ls-files --stage -- .git/COMMIT_EDITMSG [4ms]
+2025-03-09 12:01:36.770 [warning] [GitFileSystemProvider][stat] File not found - git:/home/ellmarslanasif/.git/COMMIT_EDITMSG.git?%7B%22path%22%3A%22%2Fhome%2Fellmarslanasif%2F.git%2FCOMMIT_EDITMSG%22%2C%22ref%22%3A%22%22%7D
+2025-03-09 12:02:47.805 [info] > git -c user.useConfigOnly=true commit --quiet [71542ms]
+2025-03-09 12:02:47.825 [info] > git config --get commit.template [7ms]
+2025-03-09 12:02:47.826 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2025-03-09 12:02:47.843 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [4ms]
+2025-03-09 12:02:47.858 [info] > git status -z -uall [25ms]
+2025-03-09 12:02:47.899 [info] > git config --get commit.template [7ms]
+2025-03-09 12:02:47.908 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-03-09 12:02:47.925 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2025-03-09 12:02:47.939 [info] > git status -z -uall [23ms]
+2025-03-09 12:02:48.196 [info] > git config --get commit.template [3ms]
+2025-03-09 12:02:48.211 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-03-09 12:02:48.231 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [5ms]
+2025-03-09 12:02:48.249 [info] > git status -z -uall [32ms]
+2025-03-09 12:02:48.353 [info] > git show --textconv :PDC_WORKS/Sequential.c [20ms]
+2025-03-09 12:02:48.370 [info] > git ls-files --stage -- PDC_WORKS/Sequential.c [23ms]
+2025-03-09 12:02:48.385 [info] > git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391 [10ms]
+2025-03-09 12:02:48.549 [info] > git blame --root --incremental 88ed59e6b5f277a233a7ce501691de9edeaa7cc7 -- PDC_WORKS/Sequential.c [4ms]
+2025-03-09 12:02:48.835 [info] > git check-ignore -v -z --stdin [2ms]
+2025-03-09 12:02:49.294 [info] > git ls-files --stage -- PDC_WORKS/Sequential.c [4ms]
+2025-03-09 12:02:49.301 [info] > git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391 [2ms]
+2025-03-09 12:02:49.316 [info] > git show --textconv :PDC_WORKS/Sequential.c [4ms]
+2025-03-09 12:02:59.723 [info] > git config --get commit.template [8ms]
+2025-03-09 12:02:59.732 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [11ms]
+2025-03-09 12:02:59.773 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2025-03-09 12:02:59.842 [info] > git status -z -uall [105ms]
+2025-03-09 12:03:00.904 [info] > git fetch [1200ms]
+2025-03-09 12:03:00.917 [info] > git config --get commit.template [6ms]
+2025-03-09 12:03:00.918 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2025-03-09 12:03:00.938 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [9ms]
+2025-03-09 12:03:00.948 [info] > git status -z -uall [25ms]
+2025-03-09 12:03:00.960 [info] > git ls-files --stage -- PDC_WORKS/Sequential.c [14ms]
+2025-03-09 12:03:00.965 [info] > git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391 [1ms]
+2025-03-09 12:03:00.978 [info] > git show --textconv :PDC_WORKS/Sequential.c [3ms]
+2025-03-09 12:03:04.852 [info] > git config --get commit.template [2ms]
+2025-03-09 12:03:04.856 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-03-09 12:03:04.866 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2025-03-09 12:03:04.877 [info] > git status -z -uall [17ms]
