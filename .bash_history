@@ -19,3 +19,5 @@ sudo apt update
 sudo apt install git
 git --version
 GitHub: Create Repository
+gcc -o Sequential Sequential.c
+gcc -o FIBONACCI FIBONACCI.c
