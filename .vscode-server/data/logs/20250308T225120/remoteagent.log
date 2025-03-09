@@ -1,0 +1,14 @@
+2025-03-08 22:51:21.002 [info] 
+
+
+
+
+2025-03-08 22:51:21.002 [info] Extension host agent started.
+2025-03-08 22:51:21.085 [info] Started initializing default profile extensions in extensions installation folder. file:///home/ellmarslanasif/.vscode-server/extensions
+2025-03-08 22:51:21.344 [info] [127.0.0.1][6c9400d9][ManagementConnection] New connection established.
+2025-03-08 22:51:21.731 [info] [127.0.0.1][58a87f3a][ExtensionHostConnection] New connection established.
+2025-03-08 22:51:21.747 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/ellmarslanasif/.vscode-server/extensions
+2025-03-08 22:51:21.905 [info] [127.0.0.1][58a87f3a][ExtensionHostConnection] <759> Launched Extension Host Process.
+2025-03-08 22:57:42.269 [info] [127.0.0.1][aa485583][ManagementConnection] New connection established.
+2025-03-08 22:57:42.622 [info] [127.0.0.1][62e5f6fa][ExtensionHostConnection] New connection established.
+2025-03-08 22:57:42.632 [info] [127.0.0.1][62e5f6fa][ExtensionHostConnection] <1509> Launched Extension Host Process.

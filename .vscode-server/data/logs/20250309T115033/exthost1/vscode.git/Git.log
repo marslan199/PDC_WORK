@@ -1,0 +1,24 @@
+2025-03-09 11:50:44.220 [info] [main] Log level: Info
+2025-03-09 11:50:44.220 [info] [main] Validating found git in: "git"
+2025-03-09 11:50:44.220 [info] [main] Using git "2.43.0" from "git"
+2025-03-09 11:50:44.220 [info] [Model][doInitialScan] Initial repository scan started
+2025-03-09 11:50:44.247 [info] > git rev-parse --show-toplevel [282ms]
+2025-03-09 11:50:44.259 [info] > git rev-parse --git-dir --git-common-dir [3ms]
+2025-03-09 11:50:44.313 [info] [Model][openRepository] Opened repository: /home/ellmarslanasif
+2025-03-09 11:50:44.921 [info] > git rev-parse --show-toplevel [583ms]
+2025-03-09 11:50:44.922 [info] > git config --get commit.template [588ms]
+2025-03-09 11:50:44.961 [info] > git rev-parse --show-toplevel [36ms]
+2025-03-09 11:50:44.969 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [14ms]
+2025-03-09 11:50:44.970 [warning] [Git][getBranch] No such branch: main
+2025-03-09 11:50:44.993 [info] > git rev-parse --show-toplevel [27ms]
+2025-03-09 11:50:45.005 [info] > git rev-parse --show-toplevel [1ms]
+2025-03-09 11:50:45.011 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [19ms]
+2025-03-09 11:50:45.013 [info] > git rev-parse --show-toplevel [4ms]
+2025-03-09 11:50:45.025 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-03-09 11:50:45.075 [info] > git status -z -uall [100ms]
+2025-03-09 11:50:45.076 [info] > git ls-files --stage -- hello.c [20ms]
+2025-03-09 11:50:45.217 [info] > git show --textconv :hello.c [184ms]
+2025-03-09 11:50:45.218 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [25ms]
+2025-03-09 11:50:45.218 [warning] [Git][getBranch] No such branch: main
+2025-03-09 11:50:45.219 [error] [GitHistoryProvider][resolveHEADMergeBase] Failed to resolve merge base for main: Error: No such branch: main.
+2025-03-09 11:50:45.221 [info] > git cat-file -s f26b97c98dbdc41322cdf2814786fa85409cef61 [136ms]

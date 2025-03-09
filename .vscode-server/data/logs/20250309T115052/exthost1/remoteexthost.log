@@ -1,0 +1,48 @@
+2025-03-09 11:50:54.919 [info] Extension host with pid 1016 started
+2025-03-09 11:50:55.123 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-03-09 11:50:55.187 [info] Lock '/home/ellmarslanasif/.vscode-server/data/User/workspaceStorage/bdc1f7183c7922fa97b4e5648cbed157/vscode.lock': Lock acquired.
+2025-03-09 11:50:55.278 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-03-09 11:50:55.279 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-03-09 11:50:56.143 [info] Eager extensions activated
+2025-03-09 11:50:56.144 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-03-09 11:50:56.144 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-03-09 11:51:02.592 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-03-09 11:51:11.417 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1637
+2025-03-09 11:51:12.159 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1637
+2025-03-09 11:51:12.790 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1637
+2025-03-09 11:51:16.789 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1637
+2025-03-09 11:51:21.850 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1637
+2025-03-09 11:51:26.993 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1637
+2025-03-09 11:51:32.059 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1637
+2025-03-09 11:51:37.118 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1637
+2025-03-09 11:51:42.175 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1637
+2025-03-09 11:51:48.817 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1637
+2025-03-09 11:52:26.437 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1637
+2025-03-09 11:52:31.512 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1637
+2025-03-09 11:52:32.297 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1637
+2025-03-09 11:52:36.597 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1637
+2025-03-09 11:52:45.700 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1637
+2025-03-09 11:52:47.986 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1637
+2025-03-09 11:52:49.243 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1637
+2025-03-09 11:52:50.549 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1637
+2025-03-09 11:52:51.069 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1637
+2025-03-09 11:52:51.734 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1637
+2025-03-09 11:52:52.770 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1637
+2025-03-09 11:52:54.941 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1637
+2025-03-09 11:52:56.163 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1637
+2025-03-09 11:52:57.789 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1637
+2025-03-09 11:52:58.966 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1637
+2025-03-09 11:52:59.999 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1637
+2025-03-09 11:53:01.817 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1637
+2025-03-09 11:53:02.668 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1637
+2025-03-09 11:53:03.665 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1637
+2025-03-09 11:53:05.269 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1637
+2025-03-09 11:53:06.872 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1637
+2025-03-09 11:53:07.453 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1637
+2025-03-09 11:53:09.504 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1637
+2025-03-09 11:53:11.146 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1637
+2025-03-09 11:53:11.962 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1637
+2025-03-09 11:53:12.439 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1637
+2025-03-09 11:53:17.051 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1637
+2025-03-09 11:53:20.332 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1635
+2025-03-09 11:53:21.609 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1635
