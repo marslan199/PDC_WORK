@@ -1,0 +1,22 @@
+2025-03-09 12:11:21.167 [info] Extension host with pid 6103 started
+2025-03-09 12:11:21.364 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-03-09 12:11:21.476 [info] Lock '/home/ellmarslanasif/.vscode-server/data/User/workspaceStorage/bdc1f7183c7922fa97b4e5648cbed157/vscode.lock': Lock acquired.
+2025-03-09 12:11:21.577 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-03-09 12:11:21.661 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-03-09 12:11:21.662 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-03-09 12:11:22.379 [info] Eager extensions activated
+2025-03-09 12:11:22.379 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-03-09 12:11:22.380 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-03-09 12:11:22.708 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-03-09 12:11:22.714 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-03-09 12:11:22.714 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-03-09 12:13:45.762 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2025-03-09 12:15:31.029 [error] Error: Failed to execute git
+	at t.Git._exec (/home/ellmarslanasif/.vscode-server/bin/6609ac3d66f4eade5cf376d1cb76f13985724bcb/extensions/git/dist/main.js:2:951507)
+	at async t.Git.exec (/home/ellmarslanasif/.vscode-server/bin/6609ac3d66f4eade5cf376d1cb76f13985724bcb/extensions/git/dist/main.js:2:950575)
+	at async z.exec (/home/ellmarslanasif/.vscode-server/bin/6609ac3d66f4eade5cf376d1cb76f13985724bcb/extensions/git/dist/main.js:2:956103)
+	at async z.addRemote (/home/ellmarslanasif/.vscode-server/bin/6609ac3d66f4eade5cf376d1cb76f13985724bcb/extensions/git/dist/main.js:2:966417)
+	at async L.retryRun (/home/ellmarslanasif/.vscode-server/bin/6609ac3d66f4eade5cf376d1cb76f13985724bcb/extensions/git/dist/main.js:2:1087800)
+	at async L.run (/home/ellmarslanasif/.vscode-server/bin/6609ac3d66f4eade5cf376d1cb76f13985724bcb/extensions/git/dist/main.js:2:1087404)
+	at async L.addRemote (/home/ellmarslanasif/.vscode-server/bin/6609ac3d66f4eade5cf376d1cb76f13985724bcb/extensions/git/dist/main.js:2:1079073)
+	at async /home/ellmarslanasif/.vscode-server/bin/6609ac3d66f4eade5cf376d1cb76f13985724bcb/extensions/github/dist/extension.js:2:207258
